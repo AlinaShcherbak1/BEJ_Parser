@@ -1,0 +1,8 @@
+PROJECT_NAME           = "BEJ Parser"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src README.md
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+GENERATE_LATEX         = NO
+QUIET                  = YES
+GENERATE_TREEVIEW      = YES

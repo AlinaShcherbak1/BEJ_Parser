@@ -1,0 +1,8 @@
+# sid,name,type
+1,CapacityMiB,int
+2,DataWidthBits,int
+3,AllowedSpeedsMHz,array-int
+4,ErrorCorrection,string
+5,MemoryLocation,set
+6,Channel,int
+7,Slot,int

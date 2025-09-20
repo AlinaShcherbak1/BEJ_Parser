@@ -1,0 +1,10 @@
+^C:\USERS\ALINA\DOWNLOADS\BEJ_PARSER_C\BUILD\CMAKEFILES\48B5F25EE5DC5516E46DABE62A732550\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Alina/Downloads/BEJ_Parser_C -BC:/Users/Alina/Downloads/BEJ_Parser_C/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Alina/Downloads/BEJ_Parser_C/build/bej_parser.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

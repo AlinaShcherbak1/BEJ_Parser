@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Alina/Downloads/BEJ_Parser_C/build-ninja/cmake_install.cmake",
+		"C:/Users/Alina/Downloads/BEJ_Parser_C/build-ninja/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

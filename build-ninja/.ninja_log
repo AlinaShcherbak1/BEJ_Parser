@@ -1,0 +1,14 @@
+# ninja log v7
+8	83	7800736583774688	CMakeFiles/bej_core.dir/src/bitbuf.c.obj	4771d0f6fc9ec883
+11	108	7800736583805155	CMakeFiles/bej_core.dir/src/util.c.obj	9e1bab5f8d17fb12
+21	129	7800736583905161	tests/CMakeFiles/bej_tests.dir/test_varints.c.obj	8cd2e01882becae4
+17	132	7800736583875152	tests/CMakeFiles/bej_tests.dir/unity.c.obj	f4f1d95f6ca1108d
+4	133	7800736583734700	CMakeFiles/bej_core.dir/src/bej.c.obj	e796755c94fb43fe
+9	135	7800736583785115	CMakeFiles/bej_core.dir/src/json_writer.c.obj	8e2fd21b81ad2a
+6	147	7800736583764691	CMakeFiles/bej_core.dir/src/bej_dict.c.obj	99f638f42dbef790
+13	165	7800736583825157	CMakeFiles/bej2json.dir/src/main.c.obj	1711995d576e5db3
+15	172	7800736583845140	CMakeFiles/make_demo_bej.dir/src/demo_encode.c.obj	31a7569dfecc57b4
+150	192	7800736585191685	bej_core.lib	fdc18fc2b5e717bb
+175	249	7800736585366038	make_demo_bej.exe	2489c3f28302c0fe
+193	263	7800736585636153	tests/bej_tests.exe	963d5562ba495a7f
+192	264	7800736585621593	bej2json.exe	69848d8eaa0f18c5

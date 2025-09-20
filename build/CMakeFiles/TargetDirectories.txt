@@ -1,0 +1,8 @@
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/CMakeFiles/bej_core.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/CMakeFiles/bej2json.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/CMakeFiles/make_demo_bej.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/tests/CMakeFiles/bej_tests.dir
+C:/Users/Alina/Downloads/BEJ_Parser_C/build/tests/CMakeFiles/RUN_TESTS.dir
