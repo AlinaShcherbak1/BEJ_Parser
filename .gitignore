@@ -1,0 +1,27 @@
+# Build artifacts
+/build/
+/build-ninja/
+/out/
+**/CMakeFiles/
+**/CMakeCache.txt
+
+# VS / CMake IDE stuff
+/.vs/
+/out/build/
+/out/install/
+/x64/
+/Debug/
+/Release/
+/*.sln
+/*.vcxproj
+/*.vcxproj.filters
+/*.user
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.recipe
+*.log
+*.ninja
+.ninja_log
+.ninja_deps
