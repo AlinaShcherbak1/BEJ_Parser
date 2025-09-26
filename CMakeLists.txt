@@ -8,6 +8,9 @@ set(CMAKE_C_EXTENSIONS OFF)
 if (CMAKE_C_COMPILER_ID MATCHES "GNU|Clang")
   add_compile_options(-Wall -Wextra -Wpedantic -Wshadow -Wpointer-arith -Wcast-qual -Wstrict-prototypes -Werror=return-type)
 endif()
+if (WIN32)
+  add_compile_definitions(_CRT_SECURE_NO_WARNINGS)
+endif()
 
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
